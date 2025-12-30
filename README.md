@@ -1,4 +1,4 @@
-# Health Insurance Premium Prediction
+# Health Insurance Premium Prediction 
 
 ## Project Overview
 This project predicts annual health insurance premium amounts using customer demographic, lifestyle, income, and medical information.  
@@ -7,6 +7,9 @@ The solution follows a complete machine learning lifecycle including data cleani
 The final system uses **two different models** based on customer age to ensure fair and accurate pricing.
 
 ---
+
+[Try the App on Streamlit](https://health-insurance-prem-prediction.streamlit.app/)
+
 
 ## Dataset Description
 
